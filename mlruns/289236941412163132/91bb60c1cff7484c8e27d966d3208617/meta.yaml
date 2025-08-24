@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/289236941412163132/91bb60c1cff7484c8e27d966d3208617/artifacts
+end_time: 1756009324211
+entry_point_name: ''
+experiment_id: '289236941412163132'
+lifecycle_stage: active
+run_id: 91bb60c1cff7484c8e27d966d3208617
+run_name: rebellious-hare-835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756009323632
+status: 4
+tags: []
+user_id: ankitkumar

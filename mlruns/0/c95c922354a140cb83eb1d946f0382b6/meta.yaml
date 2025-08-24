@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c95c922354a140cb83eb1d946f0382b6/artifacts
+end_time: 1755875313144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c95c922354a140cb83eb1d946f0382b6
+run_name: mercurial-steed-763
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755875312662
+status: 3
+tags: []
+user_id: ankitkumar

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/db7b67f6b45741b5831624ad2d1d1695/artifacts
+end_time: 1755870617587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db7b67f6b45741b5831624ad2d1d1695
+run_name: bemused-worm-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755870617570
+status: 3
+tags: []
+user_id: ankitkumar

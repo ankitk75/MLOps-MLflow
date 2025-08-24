@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/289236941412163132/bfec997ebc7e4d838f1b8edcc0b1c304/artifacts
+end_time: 1756009082582
+entry_point_name: ''
+experiment_id: '289236941412163132'
+lifecycle_stage: active
+run_id: bfec997ebc7e4d838f1b8edcc0b1c304
+run_name: smiling-trout-849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756009081665
+status: 4
+tags: []
+user_id: ankitkumar

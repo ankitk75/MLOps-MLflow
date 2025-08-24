@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/289236941412163132/3408d03c3f274d10b3b7ed35d74434c5/artifacts
+end_time: 1755875492164
+entry_point_name: ''
+experiment_id: '289236941412163132'
+lifecycle_stage: active
+run_id: 3408d03c3f274d10b3b7ed35d74434c5
+run_name: unleashed-toad-653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755875491773
+status: 3
+tags: []
+user_id: ankitkumar
